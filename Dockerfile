@@ -1,4 +1,4 @@
-FROM openjdk:17.0.1-jdk-oracle as build
+FROM openjdk:18.0.2-jdk-oracle as build
 
 WORKDIR /workspace/app
 
